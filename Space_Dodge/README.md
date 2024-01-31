@@ -1,1 +1,1 @@
-Rules and futures changes
+Rules and futures changes of the game
