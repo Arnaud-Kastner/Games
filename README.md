@@ -1,4 +1,4 @@
-#🚀 Python Game Development Repository 🎮
+# 🚀 Python Game Development Repository 🎮
 
 Welcome to the GameDev Python repository! This is where I showcase my endeavors in creating small and entertaining video games using Python.
 
