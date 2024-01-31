@@ -1,3 +1,8 @@
+"""
+Created by Arnaud K. with the help of Thomas M.
+This is the Version 1.0
+"""
+
 import pygame
 import random
 import time
