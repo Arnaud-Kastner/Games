@@ -2,7 +2,7 @@
 
 Welcome to the GameDev Python repository! This is where I showcase my endeavors in creating small and entertaining video games using Python.
 
-##Current Game: 
+## Current Game: 
 
 ### Space Dodge 🌌
 
@@ -10,7 +10,7 @@ Welcome to the GameDev Python repository! This is where I showcase my endeavors 
 
 Dive into the thrilling world of space survival with "Space Dodge"! Take control of a red rectangle as you navigate through a relentless onslaught of space debris. Your mission is to endure the cosmic chaos for as long as possible. Are you up for the challenge?
 
-##Upcoming Project: 
+## Upcoming Project: 
 
 ### Snake Game 🐍
 
